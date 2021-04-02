@@ -4,7 +4,7 @@
 
 Contains Jupyter notebooks and other materials prepared for the course Introduction to Data Science offered at TIFR Hyderabad (https://www.tifrh.res.in/~ramakrishnan/index.php/teaching/)
 
-## Interactve notebooks
+## Interactive notebooks
 Access interactive notebooks at https://mybinder.org/v2/gh/raghurama123/ds2021/HEAD
 
 ## Contact
